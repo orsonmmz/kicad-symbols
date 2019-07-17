@@ -84,6 +84,28 @@ K RF attenuator
 F http://cdn.macom.com/datasheets/maadss0008.pdf
 $ENDCMP
 #
+$CMP MAX2605
+D Integrated IF VCOs with Differential Output
+K rf vco
+F https://datasheets.maximintegrated.com/en/ds/MAX2605-MAX2609.pdf
+$ENDCMP
+#
+$CMP MAX2606
+F https://datasheets.maximintegrated.com/en/ds/MAX2605-MAX2609.pdf
+$ENDCMP
+#
+$CMP MAX2607
+F https://datasheets.maximintegrated.com/en/ds/MAX2605-MAX2609.pdf
+$ENDCMP
+#
+$CMP MAX2608
+F https://datasheets.maximintegrated.com/en/ds/MAX2605-MAX2609.pdf
+$ENDCMP
+#
+$CMP MAX2609
+F https://datasheets.maximintegrated.com/en/ds/MAX2605-MAX2609.pdf
+$ENDCMP
+#
 $CMP MC12080
 D 1.1 GHz Prescaler, divide by 10 20 40 80, SOIC-8
 K prescaler frequency divider
